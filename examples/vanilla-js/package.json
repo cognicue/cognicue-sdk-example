@@ -1,0 +1,19 @@
+{
+  "name": "cognicue_vanilla",
+  "version": "1.0.0",
+  "description": "Simple Vanilla JS integration",
+  "main": "main.js",
+  "scripts": {
+    "start": "parcel index.html -p 8080"
+  },
+  "keywords": [
+    "html",
+    "vanilla",
+    "cognicue"
+  ],
+  "author": "",
+  "private": "true",
+  "devDependencies": {
+    "parcel": "^2.4.1"
+  }
+}
