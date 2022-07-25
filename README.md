@@ -1,3 +1,12 @@
+<div align="center"> <a href="https://www.cognicue.in/">
+    <img
+      src="https://media.cognicue.in/logos/logo-black.svg"
+      width="650"
+      height="auto"
+    />
+  </a>
+</div>
+
 # CogniCue SDK Example
 
 ## Projects Examples
